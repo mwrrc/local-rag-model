@@ -41,3 +41,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/hands-on-ai-build-a-rag-model-from-scratch-with-open-source
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGdQiTJKtazQQ/learning-public-crop_675_1200/B4EZfk76UoGcAc-/0/1751892600571?e=2147483647&v=beta&t=7gba3zM-gEBUnK1iwWB-h9t3w2jBSl9Cj1PJlWedHy8
 
+init commit
